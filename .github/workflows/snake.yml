@@ -10,16 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: umair-me
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/snake.svg
 
-      - name: Push output
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
