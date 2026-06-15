@@ -137,9 +137,8 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umair-me/muhammad-umair/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/umair-me/umair-me/output/snake.svg" />
 </p>
-
 
 ---
 
