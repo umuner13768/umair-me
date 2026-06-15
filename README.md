@@ -178,26 +178,14 @@
 
 ## 💙 Footer
 
-
-
 <p align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0f2027&height=120&section=footer"/>
-
 </p>
 
-
-
 <p align="center">
-
   ⭐ “Code is not just what I do, it’s what I love creating every day.” ⭐  
-
   <br/>
-
   Built with passion, patience, and dedication 💻  
-
   <br/><br/>
-
-  Made with <span style="color:red;">❤️</span> by Muhammad Umair
-
+  Made with ❤️ by Muhammad Umair
 </p>
