@@ -132,18 +132,11 @@
 
 
 
-## 🐍 Contribution Snake Animation
-
-
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/umair-me/umair-me/output/snake.svg" />
 </p>
-
----
-
-
-
 ## 👁 Profile Views
 
 
