@@ -1,28 +1,26 @@
-# ✨ Hi, I'm Muhammad Umair 👋
+# ✨ Muhammad Umair | Frontend Developer & Project Manager
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:36BCF7&height=200&section=header&text=Muhammad%20Umair&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:36BCF7&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=ffffff" />
 </p>
 
-### 🚀 Frontend Developer | Project Manager | Digital Marketing | Truck Dispatch Operations
-
 <p align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=800&lines=Frontend+Developer;UI/UX+Enthusiast;Gym+Wear+Website+Builder;Project+Manager;Creative+Web+Developer)
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=800&lines=Frontend+Developer;UI%2FUX+Enthusiast;Gym+Wear+Website+Builder;Project+Manager;Creative+Web+Developer" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
+
+I am **Muhammad Umair**, a passionate developer and project manager focused on building clean, modern, and responsive web applications.
 
 - 🎓 MSc in Project Management  
-- 📊 Working as a Project Manager  
+- 💼 Working as Project Manager  
 - 💻 Frontend Developer (HTML, CSS, JavaScript)  
-- 📈 Experience in Digital Marketing  
+- 📈 Digital Marketing Experience  
 - 🚛 Truck Dispatch Operations  
 - ⚡ Currently learning React.js  
-- 🎯 Focused on building real-world web projects  
+- 🎯 Goal: Become Full Stack Developer  
 
 ---
 
@@ -34,10 +32,24 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge&logo=google&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify)
+![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge&logo=google)
 
 </p>
+
+---
+
+## 📌 Featured Project
+
+### 🏋️ Gym Wear Website
+A modern clothing brand website built with focus on UI/UX and responsive design.
+
+- Clean product pages  
+- Mobile responsive design  
+- Modern UI layout  
+- Fast loading experience  
+
+*(More projects coming soon...)*
 
 ---
 
@@ -57,7 +69,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umuner13768&theme=tokyo-night&hide_border=true" />
@@ -73,30 +85,32 @@
 
 ---
 
-## 👁 Profile Views
+## 📫 Let’s Connect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umuner13768&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+
+🌐 Portfolio: https://muhammadumaircreates.carrd.co  
+
+📩 Open for Freelance & Collaboration  
+
 </p>
 
 ---
 
-## 📫 Contact Me
+## 💙 Quote
 
-🌐 Portfolio: https://muhammadumaircreates.carrd.co  
+<p align="center">
+⭐ “Great code is not written, it is designed with patience and purpose.” ⭐  
+</p>
 
 ---
 
-## 💙 Footer
+## ❤️ Footer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0f2027&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  ⭐ “Code is not just what I do, it’s what I love creating every day.” ⭐  
-  <br/>
-  Built with passion, patience, and dedication 💻  
-  <br/><br/>
   Made with ❤️ by Muhammad Umair
 </p>
